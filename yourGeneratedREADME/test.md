@@ -1,10 +1,10 @@
-# README_Generator
+# test
 
   [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
   ## description
 
-  This project leverages node.js to allow an end user to generate a README markdown file from the command line.
+  test
 
   ## table of Contents
   *  [installation instructions](#installation-instructions)
@@ -15,22 +15,22 @@
   *  [questions](#questions)
   ## installation 
 
-  Clone the respository "git clone git@github.com:bprendaj/README_Generator.git
+  test
 
   ## usage
 
-  Quick way for the user to generator a README file
+  test
 
   ## contribution guidlines
 
-  none
+  test
 
   ## test instructions
 
   test
 
   ## license
-  Copyright [2022] [Brikena Prendaj]
+  Copyright [2022] [Brikena]
 
   Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
   1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
@@ -42,6 +42,6 @@
   ## questions
   [CLICK HERE to view my github page](https://github.com/bprendaj)
 
-  if you have any questions, please email me at bprendaj2@gmail.com:purple_heart:
+  if you have any questions, please email me at test:purple_heart:
 
   
