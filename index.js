@@ -1,5 +1,5 @@
 // INCLUDE PACKAGES NEEDED FOR THIS APPLICATION
-const inquirer = require('inquirer');
+const inquirer = require('inquirer')
 const fs = require('fs');
 const generateMarkdown = require('./generateMarkdown');
 
@@ -160,7 +160,7 @@ function init () {
     .then((projectData) => {
         const markdownData = generateMarkdown(projectData);
         fs.writeFile(`./yourGeneratedREADME/${projectData.title}.md`, markdownData, (err) => {
-            err ? console.error(err) : console.log('readme created');
+            err ? console.error(err) : console.log('Your Readme File has been generated.');
         })
     })
 }
