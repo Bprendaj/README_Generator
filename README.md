@@ -26,8 +26,8 @@
   none
 
   ## test instructions
+[Untitled_ Jul 5, 2022 6_52 PM.webm](https://user-images.githubusercontent.com/103226702/177432563-1432e58b-3cb6-486f-a4f4-d4a6024a173b.webm)
 
-  test
 
   ## license
   Copyright [2022] [Brikena Prendaj]
@@ -42,6 +42,6 @@
   ## questions
   [CLICK HERE to view my github page](https://github.com/bprendaj)
 
-  if you have any questions, please email me at bprendaj2@gmail.com:purple_heart:
+  if you have any questions, please email me at bprendaj2@gmail.com:
 
   
